@@ -1,3 +1,6 @@
+xyztest");alert(origin);// 
+xyz,test");alert(origin);// 
+
 <script>alert('1')</script>
 "><script>alert('1')</script>
 <svg/onload=alert('1');
